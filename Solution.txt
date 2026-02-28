@@ -1,2 +1,3 @@
 Prêt·e pour ma formation à la Wild Code School.
 Je modifie ce projet maintenent
+Je modifie encore une fois le document en rajoutant des commits
